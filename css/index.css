@@ -36,9 +36,12 @@ a:visited {
   text-decoration: none;
 }
 
+a {
+  color: white;
+}
+
 th {
   transition: background-color 1s ease-out 100ms;
-  color: white;
 }
 
 th:hover {
