@@ -38,6 +38,7 @@ a:visited {
 
 th {
   transition: background-color 1s ease-out 100ms;
+  color: white;
 }
 
 th:hover {
