@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently enhancing my knowledge on **Angular, GraphQL and learning more about Backend**
 
-- 💬 Ask me about **React, TypeScript, and how to center a div**
+- 💬 Ask me about **React, TS, and how to center a div**
 
 <h3 align="left">A bit about me:</h3>
 
